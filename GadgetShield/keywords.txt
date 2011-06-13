@@ -1,0 +1,70 @@
+#######################################
+# Syntax Coloring Map For GadgetShield
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+GadgetShield KEYWORD1
+IIRFilter KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Setup KEYWORD2
+AccelSample KEYWORD2
+AccelIsInt KEYWORD2
+AccelResultX KEYWORD2
+AccelResultY KEYWORD2
+AccelResultZ KEYWORD2
+AccelShake KEYWORD2
+AccelTap KEYWORD2
+AccelPoLa KEYWORD2
+AccelBaFro KEYWORD2
+AccelSetDebounce KEYWORD2
+LED KEYWORD2
+LEDSet KEYWORD2
+LEDClear KEYWORD2
+IsSwitch KEYWORD2
+RGB KEYWORD2
+Speaker KEYWORD2
+Pot KEYWORD2
+Microphone KEYWORD2
+MicrophoneAmplitude KEYWORD2
+MicrophoneSetBaseline KEYWORD2
+LightSensor KEYWORD2
+IRReceive KEYWORD2
+IRTransmit KEYWORD2
+IRTransmitCountPulses KEYWORD2
+IRTransmitEnable KEYWORD2
+SetSerialDebug KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+GS	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+IRIN_PIN LITERAL1
+IROUT_PIN LITERAL1
+LED2_PIN LITERAL1
+RED_PIN LITERAL1
+GREEN_PIN LITERAL1
+ACC_INTn_PIN LITERAL1
+PB2_PIN LITERAL1
+SPEAKER_PIN LITERAL1
+BLUE_PIN LITERAL1
+LED1_PIN LITERAL1
+PB1_PIN LITERAL1
+LED3_PIN LITERAL1
+MICROPHONE_PIN LITERAL1
+LIGHTSENSOR_PIN LITERAL1
+POT_PIN LITERAL1
+LED4_PIN LITERAL1
+SDA_PIN LITERAL1
+SCL_PIN LITERAL1
